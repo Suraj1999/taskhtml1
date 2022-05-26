@@ -1,0 +1,93 @@
+.heading{
+    margin-left: 40%;
+    text-align: center;
+    width: 200px;
+    height: 45px;
+    background-color: white;
+    border: 2px solid orange;
+}
+header{
+    background-color: darkslategrey;
+    padding: 10px;
+}
+h2{
+    font-size: 20px;
+    margin: 2px;
+}
+small{
+    margin-top: 2px;
+    word-spacing: 0%;
+}
+.lin1{
+    margin-top: 20px;
+}
+#lin11{
+    margin-left: 20px;
+}
+#lin12{
+   margin-left: 800px;
+}
+select{
+    width: 150px;
+    margin-left: 20px;
+}
+#st{
+    margin-left: 390px;
+    font-size: large;
+    color: darkslateblue;
+}
+input{
+    margin-left: 320px;
+}
+.lin2{
+    margin-top: 2px;
+    margin-bottom: 30px;
+}
+button{
+    color: white;
+    background-color: black;
+}
+hr{
+    margin: 20px;
+    background-color: black;
+}
+
+pre{
+    height: 20px;
+    width: 100px;
+}
+
+.cont{
+    display: flex;
+}
+.bt
+{
+   margin-top: 4px;
+   padding: 10px;
+   background-color: orangered;
+   border: 0px;
+}
+.c1{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 150px;
+    width: 200px;
+    background-color: grey;
+    color: grey;
+}
+
+.c2{
+    margin-left: 30px;
+}
+
+.divide{
+    width: 1000px;
+}
+
+
+.ft{
+    color: white;
+  background-color: darkslategrey;
+  padding: 5px;
+}
+
